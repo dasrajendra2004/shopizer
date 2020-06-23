@@ -9,7 +9,7 @@
 	<version>2.12.0</version>
 	<packaging>pom</packaging>
 
-	<name>shopizer</name>
+	<name>Shopizer</name>
 	<url>http://maven.apache.org</url>
 
 	<licenses>
